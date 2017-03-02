@@ -8,10 +8,4 @@ Creating a new branch is quick and simple.
 Swithed to a new branch "dev".
 test for --no-ff model.
 
-<<<<<<< HEAD
 test stash.
-=======
-working on dev2 branch.
->>>>>>> dev2
-
-working on issue-101 branch.
